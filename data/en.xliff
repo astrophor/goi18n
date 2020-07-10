@@ -1,0 +1,21 @@
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file datatype="plaintext" original="data/test.txt" source-language="en">
+		<header>
+			<tool tool-name="gen_origin_xliff"/>
+		</header>
+		<body>
+			<trans-unit id="A">
+				<source lang="en">a</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="B">
+				<source lang="en">b</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="C">
+				<source lang="en">this is c</source>
+				<target/>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

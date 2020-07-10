@@ -1,0 +1,1918 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="AirMatters-Translations/Info.plist" source-language="en" datatype="plaintext" target-language="fr">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.1" build-num="8T61a"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName" approved="yes">
+        <source>Air Matters - Nearby</source>
+        <target xml:lang="fr">Air Matters - Environs</target>
+      </trans-unit>
+      <trans-unit id="CFBundleName" approved="yes">
+        <source>Air Matters - Nearby</source>
+        <target xml:lang="fr">Air Matters - Environs</target>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString" approved="yes">
+        <source>1.0</source>
+        <target xml:lang="fr">1.0</target>
+      </trans-unit>
+      <trans-unit id="NSLocationWhenInUseUsageDescription" approved="yes">
+        <source>Provide air quality data for your location.</source>
+        <target xml:lang="fr">Fournir des données sur la qualité de l'air de votre position.</target>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="AirMatters-iOS/en.lproj/Localizable.strings" source-language="en" datatype="plaintext" target-language="fr">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.1" build-num="8T61a"/>
+    </header>
+    <body>
+      <trans-unit id="About.EULA" approved="yes">
+        <source>Terms of Use</source>
+        <target xml:lang="fr">Conditions d'utilisation</target>
+      </trans-unit>
+      <trans-unit id="About.Feedback" approved="yes">
+        <source>Contact Developers</source>
+        <target xml:lang="fr">Contacter les développeurs</target>
+      </trans-unit>
+      <trans-unit id="About.MailFailMessage" approved="yes">
+        <source>Please check your email settings.</source>
+        <target xml:lang="fr">Veuillez vérifier vos paramètres de messagerie.</target>
+      </trans-unit>
+      <trans-unit id="About.MailFailTitle" approved="yes">
+        <source>Unable to send email.</source>
+        <target xml:lang="fr">Impossible d'envoyer l'e-mail.</target>
+      </trans-unit>
+      <trans-unit id="About.MailPrompt" approved="yes">
+        <source>Enter your feedback here.</source>
+        <target xml:lang="fr">Entrez votre commentaire ici.</target>
+      </trans-unit>
+      <trans-unit id="About.MailTitle" approved="yes">
+        <source>User Feedback</source>
+        <target xml:lang="fr">Commentaires des utilisateurs</target>
+      </trans-unit>
+      <trans-unit id="About.OpenSource" approved="yes">
+        <source>Open Source Components</source>
+        <target xml:lang="fr">Composants open source</target>
+      </trans-unit>
+      <trans-unit id="About.Privacy" approved="yes">
+        <source>Privacy Policy</source>
+        <target xml:lang="fr">Politique de confidentialité</target>
+      </trans-unit>
+      <trans-unit id="About.Review" approved="yes">
+        <source>Review on App Store</source>
+        <target xml:lang="fr">Noter sur l'App Store</target>
+      </trans-unit>
+      <trans-unit id="About.URLs" approved="yes">
+        <source>URLs</source>
+        <target xml:lang="fr">URLs</target>
+      </trans-unit>
+      <trans-unit id="About.Website" approved="yes">
+        <source>Website</source>
+        <target xml:lang="fr">Site web</target>
+      </trans-unit>
+      <trans-unit id="AddAppliance.NoData" approved="yes">
+        <source>Currently unavailable in your region.</source>
+        <target xml:lang="fr">Actuellement indisponible dans votre région.</target>
+      </trans-unit>
+      <trans-unit id="AddAppliance.Prompt" approved="yes">
+        <source>Connect your own air quality monitor / air purifier to this app. Check the air quality of your house or office from anywhere and anytime, compare it with the outside air quality, get advice for health, and be notified immediately when the indoor air quality changes.</source>
+        <target xml:lang="fr">Connectez votre propre contrôle de la qualité de l'air / purificateur d'air à cette application. Vérifiez la qualité de l'air de votre maison ou de votre bureau de n'importe où et en tout temps, comparez-le avec la qualité de l'air extérieur, obtenez des conseils pour la santé et soyez avisé immédiatement lorsque la qualité de l'air intérieur change.</target>
+      </trans-unit>
+      <trans-unit id="AddAppliance.Purchase" approved="yes">
+        <source>Buy</source>
+        <target xml:lang="fr">Acheter</target>
+      </trans-unit>
+      <trans-unit id="AddAppliance.Title" approved="yes">
+        <source>Connect Device</source>
+        <target xml:lang="fr">Connecter l'appareil</target>
+      </trans-unit>
+      <trans-unit id="AddAppliance.ViewSamples" approved="yes">
+        <source>View Sample Devices</source>
+        <target xml:lang="fr">Voir les dispositifs d'échantillonnage</target>
+      </trans-unit>
+      <trans-unit id="AddAppliance.Website" approved="yes">
+        <source>Learn More</source>
+        <target xml:lang="fr">En savoir plus</target>
+      </trans-unit>
+      <trans-unit id="Appliance.CategoryMonitor" approved="yes">
+        <source>Air Monitor</source>
+        <target xml:lang="fr">Contrôleur de l'air</target>
+      </trans-unit>
+      <trans-unit id="Appliance.CategoryPurifier" approved="yes">
+        <source>Air Purifier</source>
+        <target xml:lang="fr">Purificateur d'air </target>
+      </trans-unit>
+      <trans-unit id="Appliance.MonitorCapability.brightness" approved="yes">
+        <source>Brightness</source>
+        <target xml:lang="fr">Luminosité</target>
+      </trans-unit>
+      <trans-unit id="Appliance.MonitorCapability.formaldehyde" approved="yes">
+        <source>Formaldehyde</source>
+        <target xml:lang="fr">Formaldéhyde </target>
+      </trans-unit>
+      <trans-unit id="Appliance.MonitorCapability.humidity" approved="yes">
+        <source>Humidity</source>
+        <target xml:lang="fr">Humidité</target>
+      </trans-unit>
+      <trans-unit id="Appliance.MonitorCapability.life_gas" approved="yes">
+        <source>Life Gas</source>
+        <target xml:lang="fr">Gaz vital</target>
+      </trans-unit>
+      <trans-unit id="Appliance.MonitorCapability.noise" approved="yes">
+        <source>Noise</source>
+        <target xml:lang="fr">Bruit</target>
+      </trans-unit>
+      <trans-unit id="Appliance.MonitorCapability.pm10" approved="yes">
+        <source>PM10</source>
+        <target xml:lang="fr">PM10</target>
+      </trans-unit>
+      <trans-unit id="Appliance.MonitorCapability.pm25" approved="yes">
+        <source>PM2.5</source>
+        <target xml:lang="fr">PM2.5</target>
+      </trans-unit>
+      <trans-unit id="Appliance.MonitorCapability.renovation_gas" approved="yes">
+        <source>Renovation Gas</source>
+        <target xml:lang="fr">Gaz de rénovation</target>
+      </trans-unit>
+      <trans-unit id="Appliance.MonitorCapability.temperature" approved="yes">
+        <source>Temperature</source>
+        <target xml:lang="fr">Température</target>
+      </trans-unit>
+      <trans-unit id="Common.AppName" approved="yes">
+        <source>Air Matters</source>
+        <target xml:lang="fr">Air Matters</target>
+      </trans-unit>
+      <trans-unit id="Common.Cancel" approved="yes">
+        <source>Cancel</source>
+        <target xml:lang="fr">Annuler</target>
+      </trans-unit>
+      <trans-unit id="Common.Error" approved="yes">
+        <source>Error</source>
+        <target xml:lang="fr">Erreur</target>
+      </trans-unit>
+      <trans-unit id="Common.Keyword.AirQuality" approved="yes">
+        <source>Air Quality</source>
+        <target xml:lang="fr">Qualité de l'air</target>
+      </trans-unit>
+      <trans-unit id="Common.Keyword.Haze" approved="yes">
+        <source>Haze</source>
+        <target xml:lang="fr">Brume</target>
+      </trans-unit>
+      <trans-unit id="Common.Keyword.Pollen" approved="yes">
+        <source>Pollen</source>
+        <target xml:lang="fr">Pollen </target>
+      </trans-unit>
+      <trans-unit id="Common.Next" approved="yes">
+        <source>Next</source>
+        <target xml:lang="fr">Suivant</target>
+      </trans-unit>
+      <trans-unit id="Common.NoData" approved="yes">
+        <source>No Data</source>
+        <target xml:lang="fr">Pas de données</target>
+      </trans-unit>
+      <trans-unit id="Common.OK" approved="yes">
+        <source>OK</source>
+        <target xml:lang="fr">OK</target>
+      </trans-unit>
+      <trans-unit id="Common.UserActivityTitle %@" approved="yes">
+        <source>%@ Air Quality</source>
+        <target xml:lang="fr">%@ Qualité de l'air</target>
+      </trans-unit>
+      <trans-unit id="Dashboard.CurrentStandard" approved="yes">
+        <source>Index Standard</source>
+        <target xml:lang="fr">Norme de l'index</target>
+      </trans-unit>
+      <trans-unit id="Dashboard.DeleteItem" approved="yes">
+        <source>Delete</source>
+        <target xml:lang="fr">Supprimer</target>
+      </trans-unit>
+      <trans-unit id="Dashboard.Devices" approved="yes">
+        <source>Purifiers &amp; Monitors</source>
+        <target xml:lang="fr">Purificateurs &amp; Moniteurs</target>
+      </trans-unit>
+      <trans-unit id="Dashboard.FooterAppliances" approved="yes">
+        <source>Tap + to connect an air purifier or monitor.</source>
+        <target xml:lang="fr">Appuyez sur + pour connecter un purificateur ou un moniteur d'air.</target>
+      </trans-unit>
+      <trans-unit id="Dashboard.FooterSaved" approved="yes">
+        <source>Tap + to add a place</source>
+        <target xml:lang="fr">Appuyez sur + pour ajouter un lieu</target>
+      </trans-unit>
+      <trans-unit id="Dashboard.Locating" approved="yes">
+        <source>Determining location...</source>
+        <target xml:lang="fr">Détermination de la localisation…</target>
+      </trans-unit>
+      <trans-unit id="Dashboard.LocationDisabled" approved="yes">
+        <source>Location service disabled.</source>
+        <target xml:lang="fr">Service de localisation désactivé.</target>
+      </trans-unit>
+      <trans-unit id="Dashboard.Nearby" approved="yes">
+        <source>Nearby</source>
+        <target xml:lang="fr">Environs</target>
+      </trans-unit>
+      <trans-unit id="Dashboard.NetworkErrorContent" approved="yes">
+        <source>Please check your network connection.</source>
+        <target xml:lang="fr">Veuillez vérifier votre connexion au réseau.</target>
+      </trans-unit>
+      <trans-unit id="Dashboard.NetworkErrorTitle" approved="yes">
+        <source>Unable to connect to server.</source>
+        <target xml:lang="fr">Impossible de se connecter au serveur.</target>
+      </trans-unit>
+      <trans-unit id="Dashboard.NoData" approved="yes">
+        <source>No Data</source>
+        <target xml:lang="fr">Pas de données</target>
+      </trans-unit>
+      <trans-unit id="Dashboard.SavedPlaces" approved="yes">
+        <source>Saved Places</source>
+        <target xml:lang="fr">Localisations Sauvegardés</target>
+      </trans-unit>
+      <trans-unit id="Dashboard.SearchPlaces" approved="yes">
+        <source>Search Places</source>
+        <target xml:lang="fr">Rechercher des lieux</target>
+      </trans-unit>
+      <trans-unit id="Dashboard.Title" approved="yes">
+        <source>Air Matters</source>
+        <target xml:lang="fr">Air Matters</target>
+      </trans-unit>
+      <trans-unit id="Dashboard.Weather" approved="yes">
+        <source>Weather</source>
+        <target xml:lang="fr">Météo</target>
+      </trans-unit>
+      <trans-unit id="Detail.AddToDashboard" approved="yes">
+        <source>Add to the Dashboard</source>
+        <target xml:lang="fr">Ajouter au tableau de bord</target>
+      </trans-unit>
+      <trans-unit id="Detail.Section.Advice" approved="yes">
+        <source>Advice For Health</source>
+        <target xml:lang="fr">Conseils de santé</target>
+      </trans-unit>
+      <trans-unit id="Detail.Section.AirForecast" approved="yes">
+        <source>Air Quality Forecast</source>
+        <target xml:lang="fr"> Prévision de la qualité de l'air</target>
+      </trans-unit>
+      <trans-unit id="Detail.Section.Allergy" approved="yes">
+        <source>Pollen Data</source>
+        <target xml:lang="fr">Données sur le pollen</target>
+      </trans-unit>
+      <trans-unit id="Detail.Section.AllergyForecast" approved="yes">
+        <source>Pollen Data Forecast</source>
+        <target xml:lang="fr">Prévision des données polliniques</target>
+      </trans-unit>
+      <trans-unit id="Detail.Section.DataSources" approved="yes">
+        <source>Data Sources</source>
+        <target xml:lang="fr">Provenance des données</target>
+      </trans-unit>
+      <trans-unit id="Detail.Section.Environment" approved="yes">
+        <source>Measurements</source>
+        <target xml:lang="fr">Mesures</target>
+      </trans-unit>
+      <trans-unit id="Detail.Section.Index" approved="yes">
+        <source>Index</source>
+        <target xml:lang="fr">Indice</target>
+      </trans-unit>
+      <trans-unit id="Detail.Section.Map" approved="yes">
+        <source>Map</source>
+        <target xml:lang="fr">Carte</target>
+      </trans-unit>
+      <trans-unit id="Detail.Section.PhilipsControls" approved="yes">
+        <source>Purifier Controls</source>
+        <target xml:lang="fr">Réglage du purificateur</target>
+      </trans-unit>
+      <trans-unit id="Detail.Section.PhilipsFilters" approved="yes">
+        <source>Filters</source>
+        <target xml:lang="fr">Filtres</target>
+      </trans-unit>
+      <trans-unit id="Detail.Section.PhilipsLinks" approved="yes">
+        <source>Links</source>
+        <target xml:lang="fr">Liens</target>
+      </trans-unit>
+      <trans-unit id="Detail.Section.Pollutants" approved="yes">
+        <source>Pollutants</source>
+        <target xml:lang="fr">Polluants</target>
+      </trans-unit>
+      <trans-unit id="Detail.Section.Readings" approved="yes">
+        <source>Pollutants</source>
+        <target xml:lang="fr">Polluants</target>
+      </trans-unit>
+      <trans-unit id="Detail.Section.WeatherForecast" approved="yes">
+        <source>Weather Forecast</source>
+        <target xml:lang="fr">Prévisions météorologiques</target>
+      </trans-unit>
+      <trans-unit id="Detail.Subordinate" approved="yes">
+        <source>Places Included</source>
+        <target xml:lang="fr">Lieux inclus</target>
+      </trans-unit>
+      <trans-unit id="Detail.TopAllergens" approved="yes">
+        <source>Top Allergens</source>
+        <target xml:lang="fr">Principaux allergènes</target>
+      </trans-unit>
+      <trans-unit id="Detail.UpdateTime %@" approved="yes">
+        <source>Updated: %@</source>
+        <target xml:lang="fr">Actualisé : %@</target>
+      </trans-unit>
+      <trans-unit id="DisplaySettings.Dashboard" approved="yes">
+        <source>Show on the Dashboard</source>
+        <target xml:lang="fr">Afficher dans le tableau de bord</target>
+      </trans-unit>
+      <trans-unit id="DisplaySettings.Imperial" approved="yes">
+        <source>Imperial</source>
+        <target xml:lang="fr">Impérial</target>
+      </trans-unit>
+      <trans-unit id="DisplaySettings.Language" approved="yes">
+        <source>Language</source>
+        <target xml:lang="fr">Langue</target>
+      </trans-unit>
+      <trans-unit id="DisplaySettings.Metric" approved="yes">
+        <source>Metric</source>
+        <target xml:lang="fr">Métrique</target>
+      </trans-unit>
+      <trans-unit id="DisplaySettings.ShowAppliances" approved="yes">
+        <source>Purifiers &amp; Monitors</source>
+        <target xml:lang="fr">Purificateurs &amp; Moniteurs</target>
+      </trans-unit>
+      <trans-unit id="DisplaySettings.ShowMixed" approved="yes">
+        <source>Weather &amp; Health Advice</source>
+        <target xml:lang="fr">Météo et conseils santé</target>
+      </trans-unit>
+      <trans-unit id="DisplaySettings.ShowUpdateTime" approved="yes">
+        <source>Data Update Time</source>
+        <target xml:lang="fr">Heure de mise à jour des données</target>
+      </trans-unit>
+      <trans-unit id="DisplaySettings.Themes" approved="yes">
+        <source>Color Theme</source>
+        <target xml:lang="fr">Couleur du thème</target>
+      </trans-unit>
+      <trans-unit id="DisplaySettings.ThemesFooter" approved="yes">
+        <source>You can swipe up/down with 2 fingers on Dashboard to switch between Light and Dark theme.</source>
+        <target xml:lang="fr">Glissez de haut en bas à deux doigts sur le tableau de bord pour passer du thème clair au thème sombre.</target>
+      </trans-unit>
+      <trans-unit id="DisplaySettings.Title" approved="yes">
+        <source>Display Settings</source>
+        <target xml:lang="fr">Paramètres d'affichage</target>
+      </trans-unit>
+      <trans-unit id="DisplaySettings.Unit" approved="yes">
+        <source>Unit System</source>
+        <target xml:lang="fr">Système d'unité</target>
+      </trans-unit>
+      <trans-unit id="GoPure.AddStatusBTDisabled" approved="yes">
+        <source>Please turn on Bluetooth.</source>
+        <target xml:lang="fr">Veuillez activer le Bluetooth.</target>
+      </trans-unit>
+      <trans-unit id="GoPure.AddStatusConnected" approved="yes">
+        <source>Connected to GoPure.</source>
+        <target xml:lang="fr">Connecté à GoPure.</target>
+      </trans-unit>
+      <trans-unit id="GoPure.AddStatusConnecting" approved="yes">
+        <source>Searching for GoPure...</source>
+        <target xml:lang="fr">Recherche en cours pour GoPure...</target>
+      </trans-unit>
+      <trans-unit id="GoPure.AlreadyConnected" approved="yes">
+        <source>You have already connected to GoPure Purifier.</source>
+        <target xml:lang="fr">Vous êtes déjà connecté au purificateur GoPure.</target>
+      </trans-unit>
+      <trans-unit id="GoPure.Filter" approved="yes">
+        <source>Filter</source>
+        <target xml:lang="fr">Filtre</target>
+      </trans-unit>
+      <trans-unit id="GoPure.FilterHoursRemaining %d" approved="yes">
+        <source>Replace after %d hours</source>
+        <target xml:lang="fr">Remplacer après %d heures</target>
+        <alt-trans>
+          <target xml:lang="fr">Remplacer dans %d heures</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="GoPure.LevelHigh" approved="yes">
+        <source>Unhealthy</source>
+        <target xml:lang="fr">Néfaste</target>
+      </trans-unit>
+      <trans-unit id="GoPure.LevelLow" approved="yes">
+        <source>Excellent</source>
+        <target xml:lang="fr">Excellent</target>
+      </trans-unit>
+      <trans-unit id="GoPure.LevelModerate" approved="yes">
+        <source>Polluted</source>
+        <target xml:lang="fr">Pollué</target>
+      </trans-unit>
+      <trans-unit id="GoPure.SpeedAuto" approved="yes">
+        <source>Auto</source>
+        <target xml:lang="fr">Automatique</target>
+      </trans-unit>
+      <trans-unit id="GoPure.SpeedSilent" approved="yes">
+        <source>Silence</source>
+        <target xml:lang="fr">Silence</target>
+      </trans-unit>
+      <trans-unit id="GoPure.SpeedTurbo" approved="yes">
+        <source>Boost</source>
+        <target xml:lang="fr">Augmentation</target>
+      </trans-unit>
+      <trans-unit id="History.Last2Years" approved="yes">
+        <source>2 Years</source>
+        <target xml:lang="fr">Deux ans</target>
+      </trans-unit>
+      <trans-unit id="History.Last7Days" approved="yes">
+        <source>7 Days</source>
+        <target xml:lang="fr">7 jours</target>
+      </trans-unit>
+      <trans-unit id="History.Last24Hours" approved="yes">
+        <source>24 Hours</source>
+        <target xml:lang="fr">24 heures</target>
+      </trans-unit>
+      <trans-unit id="History.Last30Days" approved="yes">
+        <source>30 Days</source>
+        <target xml:lang="fr">30 jours</target>
+      </trans-unit>
+      <trans-unit id="History.Last48Hours" approved="yes">
+        <source>48 Hours</source>
+        <target xml:lang="fr">48 heures</target>
+      </trans-unit>
+      <trans-unit id="History.LastFormat %@" approved="yes">
+        <source>Last %@</source>
+        <target xml:lang="fr">Dernier %@</target>
+      </trans-unit>
+      <trans-unit id="History.LastWeek" approved="yes">
+        <source>7 Days</source>
+        <target xml:lang="fr">7 jours</target>
+      </trans-unit>
+      <trans-unit id="History.LastYear" approved="yes">
+        <source>1 Year</source>
+        <target xml:lang="fr">1 an</target>
+      </trans-unit>
+      <trans-unit id="LanguageSwitch.Later" approved="yes">
+        <source>Later</source>
+        <target xml:lang="fr">Plus tard</target>
+      </trans-unit>
+      <trans-unit id="LanguageSwitch.QuitNow" approved="yes">
+        <source>Quit Now</source>
+        <target xml:lang="fr">Quitter maintenant</target>
+      </trans-unit>
+      <trans-unit id="LanguageSwitch.RestartPromot" approved="yes">
+        <source>New language will take effect after relaunching the app.</source>
+        <target xml:lang="fr">Les changements concernant la langue prendront effet après le redémarrage de l'application.</target>
+      </trans-unit>
+      <trans-unit id="LanguageSwitch.Title" approved="yes">
+        <source>Language Switch</source>
+        <target xml:lang="fr">Changer de langue</target>
+      </trans-unit>
+      <trans-unit id="LaserEgg.ConnectionFailedMessage" approved="yes">
+        <source>Please check your network connection.</source>
+        <target xml:lang="fr">Veuillez vérifier l'état de votre connexion au réseau.</target>
+      </trans-unit>
+      <trans-unit id="LaserEgg.ConnectionFailedTitle" approved="yes">
+        <source>Fail to connect to Laser Egg server.</source>
+        <target xml:lang="fr">Échec de la connexion au serveur Laser Egg.</target>
+      </trans-unit>
+      <trans-unit id="LaserEgg.DeviceExisted" approved="yes">
+        <source>Device already connected</source>
+        <target xml:lang="fr">Appareil déjà connecté</target>
+      </trans-unit>
+      <trans-unit id="LaserEgg.EnterSerialNumber" approved="yes">
+        <source>Enter the serial number on the device:</source>
+        <target xml:lang="fr">Entrez le numéro de série sur l'appareil :</target>
+      </trans-unit>
+      <trans-unit id="LaserEgg.HowToFindSN" approved="yes">
+        <source>How to find the serial number?</source>
+        <target xml:lang="fr">Comment trouver le numéro de série ?</target>
+      </trans-unit>
+      <trans-unit id="LaserEgg.InputCode" approved="yes">
+        <source>Input the 4-letter code displayed on the Laser Egg</source>
+        <target xml:lang="fr">Entrez le code à 4 lettres affiché sur le Laser Egg</target>
+      </trans-unit>
+      <trans-unit id="LaserEgg.InputCodePlaceholder" approved="yes">
+        <source>code</source>
+        <target xml:lang="fr">code</target>
+      </trans-unit>
+      <trans-unit id="LaserEgg.ManualSN" approved="yes">
+        <source>Manually enter serial number</source>
+        <target xml:lang="fr">Entrez manuellement le numéro de série</target>
+      </trans-unit>
+      <trans-unit id="LaserEgg.MissingWifiName" approved="yes">
+        <source>Please enter the name of wifi network.</source>
+        <target xml:lang="fr">Veuillez entrer le nom du réseau wi-fi.</target>
+      </trans-unit>
+      <trans-unit id="LaserEgg.PressButton" approved="yes">
+        <source>Please turn on the Laser Egg, then hold the Mode button for 5 seconds, until the 4-letter code shows on screen.</source>
+        <target xml:lang="fr">Veuillez mettre en marche le Laser Egg, puis maintenir le bouton « Mode » appuyé pendant 5 secondes, jusqu'à ce que le code à 4 lettres s'affiche à l'écran.</target>
+      </trans-unit>
+      <trans-unit id="LaserEgg.SNIncorrect" approved="yes">
+        <source>Serial Number Incorrect</source>
+        <target xml:lang="fr">Le numéro de série est incorrect.</target>
+      </trans-unit>
+      <trans-unit id="LaserEgg.SNIncorrectDescription" approved="yes">
+        <source>Make sure the device is initialized and accessible to the Internet.</source>
+        <target xml:lang="fr">Assurez-vous que l'appareil a été initialisé et a accès à Internet.</target>
+      </trans-unit>
+      <trans-unit id="LaserEgg.SerialNumber" approved="yes">
+        <source>device serial number</source>
+        <target xml:lang="fr">Numéro de série de l'appareil</target>
+      </trans-unit>
+      <trans-unit id="LaserEgg.WifiName" approved="yes">
+        <source>Network Name</source>
+        <target xml:lang="fr">Nom du réseau</target>
+      </trans-unit>
+      <trans-unit id="LaserEgg.WifiNamePlaceholder" approved="yes">
+        <source>name</source>
+        <target xml:lang="fr">nom</target>
+      </trans-unit>
+      <trans-unit id="LaserEgg.WifiPassword" approved="yes">
+        <source>Network Password</source>
+        <target xml:lang="fr">Mot de passe du réseau</target>
+      </trans-unit>
+      <trans-unit id="LaserEgg.WifiPasswordPlaceholder" approved="yes">
+        <source>password</source>
+        <target xml:lang="fr">mot de passe</target>
+      </trans-unit>
+      <trans-unit id="LaserEgg.WifiSectionFooter" approved="yes">
+        <source>Please make sure the iOS device in your hand has connected to this network.</source>
+        <target xml:lang="fr">Veuillez vous assurez que l'appareil iOS que vous utilisez est connecté au réseau.</target>
+      </trans-unit>
+      <trans-unit id="LaserEgg.WifiSectionTitle" approved="yes">
+        <source>Wifi settings for Laser Egg</source>
+        <target xml:lang="fr">Paramètres wi-fi du Laser Egg</target>
+      </trans-unit>
+      <trans-unit id="LaserEgg.WifiSettingsTitle" approved="yes">
+        <source>Laser Egg Wifi</source>
+        <target xml:lang="fr">Wi-fi Laser Egg</target>
+      </trans-unit>
+      <trans-unit id="Login.Error.-1" approved="yes">
+        <source>Internal error.</source>
+        <target xml:lang="fr">Erreur interne.</target>
+      </trans-unit>
+      <trans-unit id="Login.Error.-2" approved="yes">
+        <source>Please login.</source>
+        <target xml:lang="fr">Veuillez vous identifier.</target>
+      </trans-unit>
+      <trans-unit id="Login.Error.-3" approved="yes">
+        <source>Please login.</source>
+        <target xml:lang="fr">Veuillez vous identifier.</target>
+      </trans-unit>
+      <trans-unit id="Login.Error.-4" approved="yes">
+        <source>Request too frequently.</source>
+        <target xml:lang="fr">Demande trop fréquente.</target>
+      </trans-unit>
+      <trans-unit id="Login.Error.-5" approved="yes">
+        <source>You should login first.</source>
+        <target xml:lang="fr">Vous devriez d'abord vous identifier.</target>
+      </trans-unit>
+      <trans-unit id="Login.Error.-6" approved="yes">
+        <source>This account has been connected to another account.</source>
+        <target xml:lang="fr">Ce compte a été connecté à un autre compte.</target>
+      </trans-unit>
+      <trans-unit id="Login.Error.-7" approved="yes">
+        <source>Unable to disconnect last account. Use logout instead.</source>
+        <target xml:lang="fr">Impossible de déconnecter le dernier compte. Utilisez l'option de déconnexion à la place.</target>
+      </trans-unit>
+      <trans-unit id="Login.Error.AlreadyLoggedIn" approved="yes">
+        <source>Already logged in.</source>
+        <target xml:lang="fr">Déjà connecté.</target>
+      </trans-unit>
+      <trans-unit id="Login.Error.InvalidOAuthInfo" approved="yes">
+        <source>Invalid OAuth info.</source>
+        <target xml:lang="fr">Info. OAuth invalides.</target>
+      </trans-unit>
+      <trans-unit id="Login.Error.InvalidResponse" approved="yes">
+        <source>Invalid response from server.</source>
+        <target xml:lang="fr">Réponse du serveur invalide.</target>
+      </trans-unit>
+      <trans-unit id="Login.Error.SyncFailed" approved="yes">
+        <source>Fail to sync settings.</source>
+        <target xml:lang="fr">Impossible de synchroniser les paramètres.</target>
+      </trans-unit>
+      <trans-unit id="Login.Error.UserCancelled" approved="yes">
+        <source>User cancelled.</source>
+        <target xml:lang="fr">Utilisateur annulé.</target>
+      </trans-unit>
+      <trans-unit id="Login.Error.WxNotInstalled" approved="yes">
+        <source>WeChat app not installed.</source>
+        <target xml:lang="fr">Application WeChat non installée.</target>
+      </trans-unit>
+      <trans-unit id="Login.Logout" approved="yes">
+        <source>Log out</source>
+        <target xml:lang="fr">Se déconnecter</target>
+      </trans-unit>
+      <trans-unit id="Login.Platform.facebook" approved="yes">
+        <source>Facebook</source>
+        <target xml:lang="fr">Facebook</target>
+      </trans-unit>
+      <trans-unit id="Login.Platform.google" approved="yes">
+        <source>Google</source>
+        <target xml:lang="fr">Google</target>
+      </trans-unit>
+      <trans-unit id="Login.Platform.twitter" approved="yes">
+        <source>Twitter</source>
+        <target xml:lang="fr">Twitter</target>
+      </trans-unit>
+      <trans-unit id="Login.Platform.wechat" approved="yes">
+        <source>WeChat</source>
+        <target xml:lang="fr">WeChat</target>
+      </trans-unit>
+      <trans-unit id="Login.Platform.weibo" approved="yes">
+        <source>Weibo</source>
+        <target xml:lang="fr">Weibo</target>
+      </trans-unit>
+      <trans-unit id="Login.SectionTitleBind" approved="yes">
+        <source>Connect another account</source>
+        <target xml:lang="fr">Connecter un autre compte</target>
+      </trans-unit>
+      <trans-unit id="Login.SectionTitleConnected" approved="yes">
+        <source>Already connected</source>
+        <target xml:lang="fr">Déjà connecté</target>
+      </trans-unit>
+      <trans-unit id="Login.SectionTitleLogin" approved="yes">
+        <source>Connect your social account to sync settings</source>
+        <target xml:lang="fr">Connectez votre compte de réseau social pour synchroniser les paramètres</target>
+      </trans-unit>
+      <trans-unit id="Login.SectionTitleNotConnected" approved="yes">
+        <source>Not connected</source>
+        <target xml:lang="fr">Non connecté</target>
+      </trans-unit>
+      <trans-unit id="Login.Skip" approved="yes">
+        <source>Later</source>
+        <target xml:lang="fr">Plus tard</target>
+      </trans-unit>
+      <trans-unit id="Login.Sync.MethodKeepCloud" approved="yes">
+        <source>Keep cloud settings</source>
+        <target xml:lang="fr">Conserver les paramètres du Cloud</target>
+      </trans-unit>
+      <trans-unit id="Login.Sync.MethodKeepLocal" approved="yes">
+        <source>Keep local settings</source>
+        <target xml:lang="fr">Conserver les paramètres locaux</target>
+      </trans-unit>
+      <trans-unit id="Login.Sync.MethodMerge" approved="yes">
+        <source>Merge local with cloud</source>
+        <target xml:lang="fr">Fusionner les paramètres locaux avec le Cloud</target>
+      </trans-unit>
+      <trans-unit id="Login.Sync.PromptTitle" approved="yes">
+        <source>You have stored settings in the cloud previously.</source>
+        <target xml:lang="fr">Vous avez déjà enregistré des paramètres dans le Cloud.</target>
+      </trans-unit>
+      <trans-unit id="Login.UnbindPrompt %@" approved="yes">
+        <source>Are you sure to disconnect %@?</source>
+        <target xml:lang="fr">Êtes-vous sûr de vouloir déconnecter %@ ?</target>
+      </trans-unit>
+      <trans-unit id="Map.LocationDisabledContent" approved="yes">
+        <source>Please enable location service in settings.</source>
+        <target xml:lang="fr">Veuillez activer le service de localisation dans les paramètres.</target>
+      </trans-unit>
+      <trans-unit id="Map.LocationDisabledTitle" approved="yes">
+        <source>Location Service Disabled</source>
+        <target xml:lang="fr">Service de localisation désactivé</target>
+      </trans-unit>
+      <trans-unit id="Map.ShareText" approved="yes">
+        <source>Air Quality Map</source>
+        <target xml:lang="fr">Carte de la qualité de l'air</target>
+      </trans-unit>
+      <trans-unit id="Map.SystemSettings" approved="yes">
+        <source>System Settings</source>
+        <target xml:lang="fr">Paramètres système</target>
+      </trans-unit>
+      <trans-unit id="Map.Title" approved="yes">
+        <source>Air Quality Map</source>
+        <target xml:lang="fr">Carte de la qualité de l'air</target>
+      </trans-unit>
+      <trans-unit id="Messages.ShareFooter %@" approved="yes">
+        <source>From %@</source>
+        <target xml:lang="fr">De %@</target>
+      </trans-unit>
+      <trans-unit id="Messages.SharePrompt" approved="yes">
+        <source>Share Air Quality &amp; Pollen Data:</source>
+        <target xml:lang="fr">Partager la qualité de l'air &amp; données sur le pollen :</target>
+      </trans-unit>
+      <trans-unit id="MonitorSettings.CannotSaveToServerMessage" approved="yes">
+        <source>Check your network connectivity.</source>
+        <target xml:lang="fr">Vérifiez votre connectivité réseau.</target>
+      </trans-unit>
+      <trans-unit id="MonitorSettings.CannotSaveToServerTitle" approved="yes">
+        <source>Unable to save device settings.</source>
+        <target xml:lang="fr">Impossible d'enregistrer les paramètres de l'appareil.</target>
+      </trans-unit>
+      <trans-unit id="MonitorSettings.CurrentAddress: " approved="yes">
+        <source>Current device location:</source>
+        <target xml:lang="fr">Position actuelle de l'appareil :</target>
+      </trans-unit>
+      <trans-unit id="MonitorSettings.DeviceDescription" approved="yes">
+        <source>Description (Optional)</source>
+        <target xml:lang="fr">Description (facultatif) :</target>
+      </trans-unit>
+      <trans-unit id="MonitorSettings.DeviceDescriptionFooter" approved="yes">
+        <source>Information for followers, eg.: address, opening hours, contact information.</source>
+        <target xml:lang="fr">Informations pour les adeptes, par exemple: adresse, horaires d'ouverture, coordonnées.</target>
+      </trans-unit>
+      <trans-unit id="MonitorSettings.DeviceLocationFooter" approved="yes">
+        <source>Providing a location for this device enables the comparison between indoor and outdoor data.</source>
+        <target xml:lang="fr">Fournir la position de l'appareil permet la comparaison entre les données intérieures et extérieures.</target>
+      </trans-unit>
+      <trans-unit id="MonitorSettings.DeviceLocationHeader" approved="yes">
+        <source>Device Location</source>
+        <target xml:lang="fr">Position de l'appareil</target>
+      </trans-unit>
+      <trans-unit id="MonitorSettings.DisableLocation" approved="yes">
+        <source>Disable Device Location</source>
+        <target xml:lang="fr">Désactiver la localisation de l'appareil</target>
+      </trans-unit>
+      <trans-unit id="MonitorSettings.LocationDisabled" approved="yes">
+        <source>Disabled</source>
+        <target xml:lang="fr">Désactivé</target>
+      </trans-unit>
+      <trans-unit id="MonitorSettings.NameExamples" approved="yes">
+        <source>e.g. Living Room, Bedroom, Office</source>
+        <target xml:lang="fr">exemple : Salon, Chambre, Bureau</target>
+      </trans-unit>
+      <trans-unit id="MonitorSettings.NameThisDevice" approved="yes">
+        <source>Name This Device</source>
+        <target xml:lang="fr">Nommez cet appareil</target>
+      </trans-unit>
+      <trans-unit id="MonitorSettings.PleaseSpecifyAName" approved="yes">
+        <source>Please specify a name for this device.</source>
+        <target xml:lang="fr">Veuillez indiquer un nom pour cet appareil.</target>
+      </trans-unit>
+      <trans-unit id="MonitorSettings.SelectLocation" approved="yes">
+        <source>Select Location</source>
+        <target xml:lang="fr">Sélectionner la position</target>
+      </trans-unit>
+      <trans-unit id="MonitorSettings.SharingEnabled" approved="yes">
+        <source>Enable Data Sharing</source>
+        <target xml:lang="fr">Activer le partage des données</target>
+      </trans-unit>
+      <trans-unit id="MonitorSettings.SharingFollowers %d" approved="yes">
+        <source>Followers: %d.</source>
+        <target xml:lang="fr">Followers : %d</target>
+      </trans-unit>
+      <trans-unit id="MonitorSettings.SharingOptions" approved="yes">
+        <source>Data Sharing</source>
+        <target xml:lang="fr">Partage de données</target>
+      </trans-unit>
+      <trans-unit id="MonitorSettings.SharingOptionsFooter" approved="yes">
+        <source>If enabled, others can view and/or follow the data of this device. It is suggested to enable only for devices installed in a public space, or business area (coffee shop, gym, restaurant, etc.). You can share the link of this device in device details.</source>
+        <target xml:lang="fr">En cas d'activation, d'autres personnes peuvent voir et/ou suivre les données de cet appareil. Il vous est suggéré de ne l'activer que pour les appareils installés dans des lieux publics, ou dans une zone commerciale (café, salle de sport, restaurant, etc). Vous pouvez partager le lien de cet appareil dans les détails de l'appareil.</target>
+      </trans-unit>
+      <trans-unit id="MonitorSettings.Title" approved="yes">
+        <source>Settings</source>
+        <target xml:lang="fr">Paramètres</target>
+      </trans-unit>
+      <trans-unit id="Philips.AQILevel" approved="yes">
+        <source>Indoor Air Quality Level</source>
+        <target xml:lang="fr">Niveau de qualité de l'air intérieur</target>
+      </trans-unit>
+      <trans-unit id="Philips.AQILevelDescription" approved="yes">
+        <source>You will receive notifications when the air quality in your home rises above the level set by you.</source>
+        <target xml:lang="fr">Vous recevrez des notifications dès que la qualité de l'air de votre domicile dépassera le niveau que vous avez défini dans les réglages.</target>
+        <alt-trans>
+          <target xml:lang="fr">Vous recevrez des notifications dès que la qualité de l'air de votre domicile dépasse le niveau que vous avez défini dans les réglages.</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="Philips.AddNew" approved="yes">
+        <source>Setup a new air purifier</source>
+        <target xml:lang="fr">Connecter un nouveau purificateur d'air</target>
+      </trans-unit>
+      <trans-unit id="Philips.AddNewHeader" approved="yes">
+        <source>Connect a new Smart Air Purifier to your network</source>
+        <target xml:lang="fr">Ajouter un nouveau purificateur d'air à votre réseau</target>
+        <alt-trans>
+          <target xml:lang="fr">Connecter un nouveau purificateur d'air</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="Philips.Advice.Indoor" approved="yes">
+        <source>Indoor Workout</source>
+        <target xml:lang="fr">Entraînement à l'intérieur</target>
+      </trans-unit>
+      <trans-unit id="Philips.Advice.Purifier" approved="yes">
+        <source>Air Purifier</source>
+        <target xml:lang="fr">Purificateur d'air</target>
+      </trans-unit>
+      <trans-unit id="Philips.Advice.PurifierGood" approved="yes">
+        <source>Recommend to turn on purifier and run in low speed or automode</source>
+        <target xml:lang="fr">Recommandation : Mettre en marche le purificateur et le faire fonctionner à une vitesse basse ou à l'un des modes automatiques</target>
+      </trans-unit>
+      <trans-unit id="Philips.Advice.PurifierHigh" approved="yes">
+        <source>Necessary</source>
+        <target xml:lang="fr">Nécessaire</target>
+      </trans-unit>
+      <trans-unit id="Philips.Advice.PurifierLow" approved="yes">
+        <source>Recommended for sensitive groups</source>
+        <target xml:lang="fr">Recommandé pour les groupes sensibles</target>
+      </trans-unit>
+      <trans-unit id="Philips.Advice.PurifierModerate" approved="yes">
+        <source>Recommend to turn on purifier and run in automode</source>
+        <target xml:lang="fr">Recommandation : Mettre en marche le purificateur et le faire fonctionner à l'un des modes automatiques</target>
+      </trans-unit>
+      <trans-unit id="Philips.Advice.PurifierUnhealthy" approved="yes">
+        <source>Recommend to turn on purifier and run in automode</source>
+        <target xml:lang="fr">Recommandation : Mettre en marche le purificateur et le faire fonctionner à l'un des modes automatiques</target>
+      </trans-unit>
+      <trans-unit id="Philips.Advice.PurifierVeryUnhealthy" approved="yes">
+        <source>Turn on purifier at a high speed</source>
+        <target xml:lang="fr">Mettre en marche le purificateur et le faire fonctionner à une vitesse élevée</target>
+      </trans-unit>
+      <trans-unit id="Philips.Advice.WorkoutHigh" approved="yes">
+        <source>Turn on purifier and wait</source>
+        <target xml:lang="fr">Mettre le purificateur en marche et attendre</target>
+      </trans-unit>
+      <trans-unit id="Philips.Advice.WorkoutLow" approved="yes">
+        <source>Suitable</source>
+        <target xml:lang="fr">Adapté</target>
+      </trans-unit>
+      <trans-unit id="Philips.Agreement" approved="yes">
+        <source>User Agreement</source>
+        <target xml:lang="fr">Accord Utilisateur</target>
+      </trans-unit>
+      <trans-unit id="Philips.Agreement.Accept" approved="yes">
+        <source>Accept</source>
+        <target xml:lang="fr">Accepter</target>
+      </trans-unit>
+      <trans-unit id="Philips.Agreement.Decline" approved="yes">
+        <source>Decline</source>
+        <target xml:lang="fr">Refuser</target>
+      </trans-unit>
+      <trans-unit id="Philips.AgreementPrompt" approved="yes">
+        <source>To continue, please accept and agree to the information below.</source>
+        <target xml:lang="fr">Pour continuer, veuillez confirmer que vous acceptez les informations ci-dessous.</target>
+      </trans-unit>
+      <trans-unit id="Philips.AirQualityExplained" approved="yes">
+        <source>Indoor Air Quality Index</source>
+        <target xml:lang="fr">Indice de qualité de l'air intérieur</target>
+        <alt-trans>
+          <target xml:lang="fr">Indice des allergènes d'intérieur</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="Philips.Call" approved="yes">
+        <source>Call us</source>
+        <target xml:lang="fr">Appelez-nous</target>
+      </trans-unit>
+      <trans-unit id="Philips.CarPurifierType" approved="yes">
+        <source>Car Air Purifiers</source>
+        <target xml:lang="fr">Purificateurs d'air pour voiture</target>
+      </trans-unit>
+      <trans-unit id="Philips.ComfortAdviceSectionTitle" approved="yes">
+        <source>Purifier Optimization</source>
+        <target xml:lang="fr">Optimisation du Purificateur</target>
+        <alt-trans>
+          <target xml:lang="fr">Optimisation du purificateur</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="Philips.ConfirmRegion %@" approved="yes">
+        <source>Please confirm your current region is %@.</source>
+        <target xml:lang="fr">Veuillez confirmer que votre région actuelle est %@.</target>
+      </trans-unit>
+      <trans-unit id="Philips.ConfirmRegionMessage" approved="yes">
+        <source>If this is incorrect, please go to System Settings (General - Language &amp; Region) and choose a correct region.</source>
+        <target xml:lang="fr">Si cela est incorrect, veuillez aller dans les Paramètres Système (Général - Langue &amp; Région) puis sélectionner la bonne région.</target>
+      </trans-unit>
+      <trans-unit id="Philips.Connecting" approved="yes">
+        <source>Connecting</source>
+        <target xml:lang="fr">En cours de connexion</target>
+      </trans-unit>
+      <trans-unit id="Philips.DiscoveredSection" approved="yes">
+        <source>Or choose from connected air purifiers</source>
+        <target xml:lang="fr">Ou choisir parmi l'un des appareils connectés</target>
+      </trans-unit>
+      <trans-unit id="Philips.DisplayedAQIName" approved="yes">
+        <source>Indoor Air Quality Level</source>
+        <target xml:lang="fr">Niveau de qualité de l'air intérieur</target>
+      </trans-unit>
+      <trans-unit id="Philips.EWSModelsHeader" approved="yes">
+        <source>Select the device model</source>
+        <target xml:lang="fr">Sélectionner le modèle de l'appareil</target>
+      </trans-unit>
+      <trans-unit id="Philips.FAQ" approved="yes">
+        <source>FAQ</source>
+        <target xml:lang="fr">FAQ</target>
+      </trans-unit>
+      <trans-unit id="Philips.FanSpeed %d" approved="yes">
+        <source>Speed %d</source>
+        <target xml:lang="fr">Vitesse %d</target>
+      </trans-unit>
+      <trans-unit id="Philips.HelpSection" approved="yes">
+        <source>Visit our help section</source>
+        <target xml:lang="fr">Consulter notre section d'aide</target>
+      </trans-unit>
+      <trans-unit id="Philips.IAIName" approved="yes">
+        <source>Indoor Allergen Index</source>
+        <target xml:lang="fr">Indice des allergènes d'intérieur</target>
+      </trans-unit>
+      <trans-unit id="Philips.Level" approved="yes">
+        <source>Air Quality Level</source>
+        <target xml:lang="fr">Niveau de qualité de l'air</target>
+      </trans-unit>
+      <trans-unit id="Philips.Light" approved="yes">
+        <source>Light</source>
+        <target xml:lang="fr">Lumière</target>
+      </trans-unit>
+      <trans-unit id="Philips.LightBrightness %d%%" approved="yes">
+        <source>Brightness %d%%</source>
+        <target xml:lang="fr">Luminosité %d%%</target>
+      </trans-unit>
+      <trans-unit id="Philips.LinksSection" approved="yes">
+        <source>Help &amp; Support</source>
+        <target xml:lang="fr">Aide et Assistance</target>
+      </trans-unit>
+      <trans-unit id="Philips.Lock" approved="yes">
+        <source>Child Lock</source>
+        <target xml:lang="fr">Sécurité enfant</target>
+      </trans-unit>
+      <trans-unit id="Philips.Mail" approved="yes">
+        <source>Email diagnostics</source>
+        <target xml:lang="fr">Dépannage courriel</target>
+      </trans-unit>
+      <trans-unit id="Philips.Manual" approved="yes">
+        <source>User Manual</source>
+        <target xml:lang="fr">Manuel d'utilisation</target>
+      </trans-unit>
+      <trans-unit id="Philips.Mode" approved="yes">
+        <source>Mode</source>
+        <target xml:lang="fr">Mode</target>
+      </trans-unit>
+      <trans-unit id="Philips.ModeAllergen" approved="yes">
+        <source>Allergen Mode</source>
+        <target xml:lang="fr">Mode Allergènes</target>
+        <alt-trans>
+          <target xml:lang="fr">Allergènes Mode</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="Philips.ModeBacteria" approved="yes">
+        <source>Bacteria &amp; Virus Mode</source>
+        <target xml:lang="fr">Bactéries et Virus Mode</target>
+      </trans-unit>
+      <trans-unit id="Philips.ModeManual" approved="yes">
+        <source>Auto Mode</source>
+        <target xml:lang="fr">Mode Automatique</target>
+        <alt-trans>
+          <target xml:lang="fr">Automatique Mode</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="Philips.ModeNightSense" approved="yes">
+        <source>Night Sense</source>
+        <target xml:lang="fr">Perception nocturne</target>
+      </trans-unit>
+      <trans-unit id="Philips.ModePollution" approved="yes">
+        <source>General Mode</source>
+        <target xml:lang="fr">Mode Général</target>
+        <alt-trans>
+          <target xml:lang="fr">Général Mode</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="Philips.ModeUnknown" approved="yes">
+        <source>Unknown</source>
+        <target xml:lang="fr">Inconnu</target>
+      </trans-unit>
+      <trans-unit id="Philips.ModelsUnavailable" approved="yes">
+        <source>Sorry, this feature is unavailable in your region.</source>
+        <target xml:lang="fr">Désolé, cette option n'est pas disponible dans votre région.</target>
+      </trans-unit>
+      <trans-unit id="Philips.NeedLocalWifi %@" approved="yes">
+        <source>Need connection to Wifi %@</source>
+        <target xml:lang="fr">Une connexion Wi-Fi est nécessaire %@</target>
+      </trans-unit>
+      <trans-unit id="Philips.NotificationHeader" approved="yes">
+        <source>Notifications</source>
+        <target xml:lang="fr">Notifications</target>
+      </trans-unit>
+      <trans-unit id="Philips.NotificationSwich" approved="yes">
+        <source>Enable Notifications</source>
+        <target xml:lang="fr">Autoriser les notifications</target>
+      </trans-unit>
+      <trans-unit id="Philips.Off" approved="yes">
+        <source>Off</source>
+        <target xml:lang="fr">Arrêt</target>
+      </trans-unit>
+      <trans-unit id="Philips.PM25Good" approved="yes">
+        <source>Good</source>
+        <target xml:lang="fr">Bien</target>
+        <alt-trans>
+          <target xml:lang="fr">Bon</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="Philips.PM25Moderate" approved="yes">
+        <source>Moderate</source>
+        <target xml:lang="fr">Moyen</target>
+      </trans-unit>
+      <trans-unit id="Philips.PM25Unhealthy" approved="yes">
+        <source>Polluted</source>
+        <target xml:lang="fr">Pollué</target>
+      </trans-unit>
+      <trans-unit id="Philips.PM25VeryUnhealthy" approved="yes">
+        <source>Heavily Polluted</source>
+        <target xml:lang="fr">Très pollué</target>
+      </trans-unit>
+      <trans-unit id="Philips.Power" approved="yes">
+        <source>Power</source>
+        <target xml:lang="fr">Alimentation</target>
+      </trans-unit>
+      <trans-unit id="Philips.PreferredIndex" approved="yes">
+        <source>Preferred Index</source>
+        <target xml:lang="fr">Indice préféré</target>
+      </trans-unit>
+      <trans-unit id="Philips.Privacy" approved="yes">
+        <source>Privacy Policy</source>
+        <target xml:lang="fr">Politique de confidentialité</target>
+      </trans-unit>
+      <trans-unit id="Philips.PurifierSettings" approved="yes">
+        <source>Purifier Settings</source>
+        <target xml:lang="fr">Réglages du purificateur</target>
+      </trans-unit>
+      <trans-unit id="Philips.PurifierType" approved="yes">
+        <source>Air Purifiers</source>
+        <target xml:lang="fr">Purificateurs d'air</target>
+      </trans-unit>
+      <trans-unit id="Philips.PushCover" approved="yes">
+        <source>Front panel</source>
+        <target xml:lang="fr">Panneau avant</target>
+      </trans-unit>
+      <trans-unit id="Philips.PushCoverDescription" approved="yes">
+        <source>You will receive a notification when front panel is opened.</source>
+        <target xml:lang="fr">Vous recevrez une notification quand le panneau avant sera ouvert.</target>
+      </trans-unit>
+      <trans-unit id="Philips.PushError" approved="yes">
+        <source>Error Message</source>
+        <target xml:lang="fr">Message d'erreur</target>
+      </trans-unit>
+      <trans-unit id="Philips.PushErrorDescription" approved="yes">
+        <source>You will receive a notification when error happens.</source>
+        <target xml:lang="fr">Vous recevrez une notification quand une erreur se produit dans l'appareil.</target>
+      </trans-unit>
+      <trans-unit id="Philips.PushFilter" approved="yes">
+        <source>Filters</source>
+        <target xml:lang="fr">Filtres</target>
+      </trans-unit>
+      <trans-unit id="Philips.PushFilterDescription" approved="yes">
+        <source>You will receive a notification when a filter needs to be cleaned or replaced.</source>
+        <target xml:lang="fr">Vous recevrez une notification quand un filtre doit être nettoyé ou remplacé.</target>
+        <alt-trans>
+          <target xml:lang="fr">Vous recevrez une notification quand un filtre devra être nettoyé ou remplacé.</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="Philips.Settings" approved="yes">
+        <source>Purifier Settings</source>
+        <target xml:lang="fr">Réglages du purificateur</target>
+      </trans-unit>
+      <trans-unit id="Philips.Speed" approved="yes">
+        <source>Fan Speed</source>
+        <target xml:lang="fr">Vitesse du ventilateur</target>
+      </trans-unit>
+      <trans-unit id="Philips.Terms" approved="yes">
+        <source>Terms &amp; Conditions</source>
+        <target xml:lang="fr">Termes &amp; conditions</target>
+      </trans-unit>
+      <trans-unit id="Philips.TermsSection" approved="yes">
+        <source>Terms &amp; Conditions</source>
+        <target xml:lang="fr">Termes &amp; conditions</target>
+      </trans-unit>
+      <trans-unit id="Philips.Timer" approved="yes">
+        <source>Timer</source>
+        <target xml:lang="fr">Minuterie</target>
+      </trans-unit>
+      <trans-unit id="Philips.Timer %d hours" approved="yes">
+        <source>%d hours</source>
+        <target xml:lang="fr">%d heures</target>
+      </trans-unit>
+      <trans-unit id="Philips.Timer %d minutes" approved="yes">
+        <source>in %d minutes</source>
+        <target xml:lang="fr">dans %d minutes</target>
+      </trans-unit>
+      <trans-unit id="Philips.TimerOff" approved="yes">
+        <source>Off</source>
+        <target xml:lang="fr">Arrêt</target>
+      </trans-unit>
+      <trans-unit id="Philips.TimerPowerOff" approved="yes">
+        <source>Power off</source>
+        <target xml:lang="fr">Éteindre</target>
+      </trans-unit>
+      <trans-unit id="Philips.UILightDim" approved="yes">
+        <source>Dim</source>
+        <target xml:lang="fr">Réduire la luminosité</target>
+      </trans-unit>
+      <trans-unit id="Philips.UILightOff" approved="yes">
+        <source>Off</source>
+        <target xml:lang="fr">Arrêt</target>
+      </trans-unit>
+      <trans-unit id="Philips.UILightOn" approved="yes">
+        <source>On</source>
+        <target xml:lang="fr">Allumé</target>
+        <alt-trans>
+          <target xml:lang="fr">Marche</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="Philips.UILightUnknown" approved="yes">
+        <source>Unknown</source>
+        <target xml:lang="fr">Inconnu</target>
+      </trans-unit>
+      <trans-unit id="Philips.WeChat" approved="yes">
+        <source>WeChat</source>
+        <target xml:lang="fr">WeChat</target>
+      </trans-unit>
+      <trans-unit id="Places.AddPlace" approved="yes">
+        <source>Add Place</source>
+        <target xml:lang="fr">Ajouter un lieu</target>
+      </trans-unit>
+      <trans-unit id="Places.AddToDashboard" approved="yes">
+        <source>Add to dashboard</source>
+        <target xml:lang="fr">Ajouter au tableau de bord</target>
+      </trans-unit>
+      <trans-unit id="Places.CurrentCity" approved="yes">
+        <source>Current City</source>
+        <target xml:lang="fr">Ville actuelle</target>
+      </trans-unit>
+      <trans-unit id="Places.Global" approved="yes">
+        <source>Global</source>
+        <target xml:lang="fr">Global</target>
+      </trans-unit>
+      <trans-unit id="Places.NearestStation" approved="yes">
+        <source>Nearest Monitoring Station</source>
+        <target xml:lang="fr">Station de surveillance la plus proche</target>
+      </trans-unit>
+      <trans-unit id="Places.SearchPlaceholder" approved="yes">
+        <source>Search for places</source>
+        <target xml:lang="fr">Trouver des lieux</target>
+      </trans-unit>
+      <trans-unit id="Push.Action.Detail" approved="yes">
+        <source>Detail</source>
+        <target xml:lang="fr">Détails</target>
+      </trans-unit>
+      <trans-unit id="PushPrefs.ApplianceAlerts" approved="yes">
+        <source>Device Alerts</source>
+        <target xml:lang="fr">Alertes appareil</target>
+      </trans-unit>
+      <trans-unit id="PushPrefs.AppliancesRuleCount %d" approved="yes">
+        <source>%d rules</source>
+        <target xml:lang="fr">%d règles</target>
+      </trans-unit>
+      <trans-unit id="PushPrefs.Ascending" approved="yes">
+        <source>Deteriorating Alerts</source>
+        <target xml:lang="fr">Alertes de détérioration</target>
+      </trans-unit>
+      <trans-unit id="PushPrefs.BadgeAlwaysShows" approved="yes">
+        <source>Shows always</source>
+        <target xml:lang="fr">Toujours afficher</target>
+      </trans-unit>
+      <trans-unit id="PushPrefs.BadgeSectionTitle" approved="yes">
+        <source>Numbers on App Icon</source>
+        <target xml:lang="fr">Chiffres sur l'icône de l'application</target>
+      </trans-unit>
+      <trans-unit id="PushPrefs.BadgeSource.None" approved="yes">
+        <source>(None)</source>
+        <target xml:lang="fr">(Aucun)</target>
+      </trans-unit>
+      <trans-unit id="PushPrefs.BadgeSourceTitle" approved="yes">
+        <source>Source</source>
+        <target xml:lang="fr">Source</target>
+      </trans-unit>
+      <trans-unit id="PushPrefs.Descending" approved="yes">
+        <source>Improving Notification</source>
+        <target xml:lang="fr">Notification d'amélioration</target>
+      </trans-unit>
+      <trans-unit id="PushPrefs.Enabled" approved="yes">
+        <source>Enabled</source>
+        <target xml:lang="fr">Activé</target>
+      </trans-unit>
+      <trans-unit id="PushPrefs.LocationServiceDisabled" approved="yes">
+        <source>Location service disabled. Please enable location permission for this app in system settings.</source>
+        <target xml:lang="fr">Service de localisation désactivé. Veuillez activez la localisation pour cette application dans les paramètres système.</target>
+      </trans-unit>
+      <trans-unit id="PushPrefs.PlaceSettings" approved="yes">
+        <source>Pollution Alert</source>
+        <target xml:lang="fr">Alerte pollution</target>
+      </trans-unit>
+      <trans-unit id="PushPrefs.PlaceSubscriptions" approved="yes">
+        <source>Pollution Alert Subscriptions</source>
+        <target xml:lang="fr">Abonnements aux alertes pollution</target>
+      </trans-unit>
+      <trans-unit id="PushPrefs.PushDisabledFooter" approved="yes">
+        <source>Push service disabled. You will not be able to put realtime air quality index on app icon, or receive air pollution alerts. You can enable push service in system settings.</source>
+        <target xml:lang="fr">Service « Push » désactivé. Vous ne pourrez pas mettre l'index de qualité de l'air en temps réel sur l'icône de l'application, ou recevoir des alertes sur la pollution de l'air. Vous pouvez activer le service « Push » dans les paramètres système.</target>
+      </trans-unit>
+      <trans-unit id="PushPrefs.SystemSettings" approved="yes">
+        <source>System Settings</source>
+        <target xml:lang="fr">Paramètres système</target>
+      </trans-unit>
+      <trans-unit id="Rank.Best" approved="yes">
+        <source>Best</source>
+        <target xml:lang="fr">Meilleur</target>
+      </trans-unit>
+      <trans-unit id="Rank.NoData" approved="yes">
+        <source>No Data</source>
+        <target xml:lang="fr">Aucunes données</target>
+      </trans-unit>
+      <trans-unit id="Rank.Title" approved="yes">
+        <source>Air Quality Rankings</source>
+        <target xml:lang="fr">Classification de la qualité de l'air</target>
+      </trans-unit>
+      <trans-unit id="Rank.Top %d" approved="yes">
+        <source>Top %d</source>
+        <target xml:lang="fr">Top %d</target>
+      </trans-unit>
+      <trans-unit id="Rank.Worst" approved="yes">
+        <source>Worst</source>
+        <target xml:lang="fr">Pire</target>
+      </trans-unit>
+      <trans-unit id="RemoveAds.Error.InvalidKey" approved="yes">
+        <source>Invalid serial key.</source>
+        <target xml:lang="fr">Clé de série invalide.</target>
+      </trans-unit>
+      <trans-unit id="RemoveAds.Error.ProductNotReady" approved="yes">
+        <source>Please try again later.</source>
+        <target xml:lang="fr">Veuillez réessayer ultérieurement.</target>
+      </trans-unit>
+      <trans-unit id="RemoveAds.Error.ReceiptUnavailable" approved="yes">
+        <source>Unable to find purchase receipt.</source>
+        <target xml:lang="fr">Impossible de trouver le ticket d'achat.</target>
+      </trans-unit>
+      <trans-unit id="RemoveAds.Error.ReceiptValidationFailed" approved="yes">
+        <source>Receipt validation failed.</source>
+        <target xml:lang="fr">Échec de la validation du reçu.</target>
+      </trans-unit>
+      <trans-unit id="RemoveAds.Error.RestoreNotFound" approved="yes">
+        <source>Restore failed. Could not found previous purchase record.</source>
+        <target xml:lang="fr">Échec de la récupération. Impossible de trouver l'historique des précédents achats. </target>
+      </trans-unit>
+      <trans-unit id="RemoveAds.Error.ServerError" approved="yes">
+        <source>Server error.</source>
+        <target xml:lang="fr">Erreur du serveur.</target>
+      </trans-unit>
+      <trans-unit id="RemoveAds.Error.Title" approved="yes">
+        <source>Error</source>
+        <target xml:lang="fr">Erreur</target>
+      </trans-unit>
+      <trans-unit id="RemoveAds.Error.Unknown" approved="yes">
+        <source>Unknown error</source>
+        <target xml:lang="fr">Erreur inconnue</target>
+      </trans-unit>
+      <trans-unit id="RemoveAds.Expired %@" approved="yes">
+        <source>Your previous premium service has expired on %@.</source>
+        <target xml:lang="fr">Votre service premium précédent a expiré le %@.</target>
+      </trans-unit>
+      <trans-unit id="RemoveAds.Intro" approved="yes">
+        <source>Air Matters Premium is an optional yearly subscription that remove ads and support future development. 
+
+If you have paid to remove ads in previous versions of "China Air Quality Index", you can restore previous purchase to enjoy one year of premium service.</source>
+        <target xml:lang="fr">Air Matters Premium est un abonnement annuel en option qui enlève les publicités et soutient les projets futurs.
+
+Si vous avez payé pour enlever les publicités dans des versions antérieures de l'Index de Qualité de l'Air en Chine, vous pouvez rétablir votre précédent achat pour profiter d'un an de service premium.</target>
+      </trans-unit>
+      <trans-unit id="RemoveAds.ManageSubscriptions" approved="yes">
+        <source>Manage Subscriptions</source>
+        <target xml:lang="fr">Gérer les abonnements</target>
+      </trans-unit>
+      <trans-unit id="RemoveAds.Price %@" approved="yes">
+        <source>%@ per year</source>
+        <target xml:lang="fr">%@ par an</target>
+      </trans-unit>
+      <trans-unit id="RemoveAds.Purchase" approved="yes">
+        <source>Go Premium</source>
+        <target xml:lang="fr">Passez au Premium</target>
+      </trans-unit>
+      <trans-unit id="RemoveAds.Purchased %@" approved="yes">
+        <source>Thank you for your support. 
+Your premium service will end on %@.</source>
+        <target xml:lang="fr">Merci de votre soutien. Votre service premium expirera le %@.</target>
+      </trans-unit>
+      <trans-unit id="RemoveAds.RateApp" approved="yes">
+        <source>Rate this App</source>
+        <target xml:lang="fr">Noter cette application</target>
+      </trans-unit>
+      <trans-unit id="RemoveAds.Restore" approved="yes">
+        <source>Restore Previous Purchase</source>
+        <target xml:lang="fr">Rétablir le précédent achat</target>
+      </trans-unit>
+      <trans-unit id="RemoveAds.Title" approved="yes">
+        <source>Remove Ads</source>
+        <target xml:lang="fr">Enlever les publicités</target>
+      </trans-unit>
+      <trans-unit id="RemoveAds.TryAgainLater" approved="yes">
+        <source>Please check your network connection and try again later.</source>
+        <target xml:lang="fr">Veuillez vérifier votre connexion réseau et réessayer ultérieurement.</target>
+      </trans-unit>
+      <trans-unit id="Settings.About" approved="yes">
+        <source>About</source>
+        <target xml:lang="fr">À propos</target>
+      </trans-unit>
+      <trans-unit id="Settings.AppleWatch" approved="yes">
+        <source>Apple Watch</source>
+        <target xml:lang="fr">Apple Watch</target>
+      </trans-unit>
+      <trans-unit id="Settings.ConnectAppliance" approved="yes">
+        <source>Connect Device</source>
+        <target xml:lang="fr">Connecter l'appareil</target>
+      </trans-unit>
+      <trans-unit id="Settings.Display" approved="yes">
+        <source>Display Settings</source>
+        <target xml:lang="fr">Afficher les paramètres</target>
+      </trans-unit>
+      <trans-unit id="Settings.IndexStandard" approved="yes">
+        <source>Air Quality Index Standard</source>
+        <target xml:lang="fr">Norme de l'indice de qualité de l'air</target>
+      </trans-unit>
+      <trans-unit id="Settings.NameThisDevice" approved="yes">
+        <source>Name This Device</source>
+        <target xml:lang="fr">Nommez cet appareil</target>
+      </trans-unit>
+      <trans-unit id="Settings.Notification" approved="yes">
+        <source>Notifications</source>
+        <target xml:lang="fr">Notifications</target>
+      </trans-unit>
+      <trans-unit id="Settings.RemoveAds" approved="yes">
+        <source>Remove Ads</source>
+        <target xml:lang="fr">Enlever les publicités</target>
+      </trans-unit>
+      <trans-unit id="Settings.Sync" approved="yes">
+        <source>Settings Sync</source>
+        <target xml:lang="fr">Synchronisation des paramètres</target>
+      </trans-unit>
+      <trans-unit id="Settings.SystemPermissions" approved="yes">
+        <source>System Permissions</source>
+        <target xml:lang="fr">Autorisations système</target>
+      </trans-unit>
+      <trans-unit id="Settings.Title" approved="yes">
+        <source>Settings</source>
+        <target xml:lang="fr">Paramètres</target>
+      </trans-unit>
+      <trans-unit id="Settings.TodayWidget" approved="yes">
+        <source>Today Widget</source>
+        <target xml:lang="fr">Widget du jour</target>
+      </trans-unit>
+      <trans-unit id="Settings.URLs" approved="yes">
+        <source>URLs</source>
+        <target xml:lang="fr">URL</target>
+      </trans-unit>
+      <trans-unit id="Share.AppDescription" approved="yes">
+        <source>Global Air Quality &amp; Pollen Data</source>
+        <target xml:lang="fr">Qualité de l'air globale &amp; Données sur le pollen</target>
+      </trans-unit>
+      <trans-unit id="Share.AppName" approved="yes">
+        <source>AIR MATTERS</source>
+        <target xml:lang="fr">AIR MATTERS</target>
+      </trans-unit>
+      <trans-unit id="Share.ReviewRequestContent" approved="yes">
+        <source>Would you like to rate this app on the App Store?</source>
+        <target xml:lang="fr">Désirez-vous noter cette application sur l'App Store ?</target>
+      </trans-unit>
+      <trans-unit id="Share.ReviewRequestNotNow" approved="yes">
+        <source>Not Now</source>
+        <target xml:lang="fr">Pas maintenant</target>
+      </trans-unit>
+      <trans-unit id="Share.ReviewRequestTitle" approved="yes">
+        <source>Thank you for sharing with Air Matters.</source>
+        <target xml:lang="fr">Merci d'avoir partagé avec Air Matters.</target>
+      </trans-unit>
+      <trans-unit id="Share.ShareScreenshot" approved="yes">
+        <source>Share Screenshot</source>
+        <target xml:lang="fr">Partager la capture d'écran</target>
+      </trans-unit>
+      <trans-unit id="Shortcut.Appliance" approved="yes">
+        <source>Air Purifier</source>
+        <target xml:lang="fr">Purificateur d'air</target>
+      </trans-unit>
+      <trans-unit id="Shortcut.ConnectDevice" approved="yes">
+        <source>Connect Device</source>
+        <target xml:lang="fr">Connecter l'appareil</target>
+      </trans-unit>
+      <trans-unit id="Shortcut.CurrentCity" approved="yes">
+        <source>Current City</source>
+        <target xml:lang="fr">Ville actuelle</target>
+      </trans-unit>
+      <trans-unit id="Shortcut.Map" approved="yes">
+        <source>Map</source>
+        <target xml:lang="fr">Carte</target>
+      </trans-unit>
+      <trans-unit id="Theme.Dark" approved="yes">
+        <source>Dark</source>
+        <target xml:lang="fr">Sombre</target>
+      </trans-unit>
+      <trans-unit id="Theme.Light" approved="yes">
+        <source>Light</source>
+        <target xml:lang="fr">Lumière</target>
+      </trans-unit>
+      <trans-unit id="Theme.Sky" approved="yes">
+        <source>Sky</source>
+        <target xml:lang="fr">Ciel</target>
+      </trans-unit>
+      <trans-unit id="WatchSettings.Complications" approved="yes">
+        <source>Complications</source>
+        <target xml:lang="fr">Complications</target>
+      </trans-unit>
+      <trans-unit id="WatchSettings.ComplicationsPrompt" approved="yes">
+        <source>Data Source for Complications</source>
+        <target xml:lang="fr">Source de données des complications</target>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="AirMatters-iOS/en.lproj/WeatherNames.strings" source-language="en" datatype="plaintext" target-language="fr">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.1" build-num="8T61a"/>
+    </header>
+    <body>
+      <trans-unit id="Blowing Snow" approved="yes">
+        <source>Blowing Snow</source>
+        <target xml:lang="fr">Rafale de neige </target>
+      </trans-unit>
+      <trans-unit id="Chance of Rain" approved="yes">
+        <source>Chance of Rain</source>
+        <target xml:lang="fr">Risque de pluie</target>
+      </trans-unit>
+      <trans-unit id="Clear" approved="yes">
+        <source>Clear</source>
+        <target xml:lang="fr">Effacer</target>
+      </trans-unit>
+      <trans-unit id="Drizzle" approved="yes">
+        <source>Drizzle</source>
+        <target xml:lang="fr">Bruine</target>
+      </trans-unit>
+      <trans-unit id="Dust Whirls" approved="yes">
+        <source>Dust Whirls</source>
+        <target xml:lang="fr">Tourbillons de poussière </target>
+      </trans-unit>
+      <trans-unit id="Fog" approved="yes">
+        <source>Fog</source>
+        <target xml:lang="fr">Brouillard</target>
+      </trans-unit>
+      <trans-unit id="Fog Patches" approved="yes">
+        <source>Fog Patches</source>
+        <target xml:lang="fr">Bancs de brouillard</target>
+      </trans-unit>
+      <trans-unit id="Freezing Drizzle" approved="yes">
+        <source>Freezing Drizzle</source>
+        <target xml:lang="fr">Bruine verglaçante</target>
+      </trans-unit>
+      <trans-unit id="Freezing Fog" approved="yes">
+        <source>Freezing Fog</source>
+        <target xml:lang="fr">Brouillard verglaçant </target>
+      </trans-unit>
+      <trans-unit id="Funnel Cloud" approved="yes">
+        <source>Funnel Cloud</source>
+        <target xml:lang="fr">Entonnoir nuageux</target>
+      </trans-unit>
+      <trans-unit id="Hail" approved="yes">
+        <source>Hail</source>
+        <target xml:lang="fr">Grêle</target>
+      </trans-unit>
+      <trans-unit id="Hail Showers" approved="yes">
+        <source>Hail Showers</source>
+        <target xml:lang="fr">Averse de grêle</target>
+      </trans-unit>
+      <trans-unit id="Haze" approved="yes">
+        <source>Haze</source>
+        <target xml:lang="fr">Brume</target>
+      </trans-unit>
+      <trans-unit id="Heavy Blowing Sand" approved="yes">
+        <source>Heavy Blowing Sand</source>
+        <target xml:lang="fr">Forte tempête de sable</target>
+      </trans-unit>
+      <trans-unit id="Heavy Blowing Snow" approved="yes">
+        <source>Heavy Blowing Snow</source>
+        <target xml:lang="fr">Poudrerie forte</target>
+      </trans-unit>
+      <trans-unit id="Heavy Blowing Widespread Dust" approved="yes">
+        <source>Heavy Blowing Widespread Dust</source>
+        <target xml:lang="fr">Vastes et importants tourbillons de poussière</target>
+      </trans-unit>
+      <trans-unit id="Heavy Drizzle" approved="yes">
+        <source>Heavy Drizzle</source>
+        <target xml:lang="fr">Forte bruine</target>
+      </trans-unit>
+      <trans-unit id="Heavy Dust Whirls" approved="yes">
+        <source>Heavy Dust Whirls</source>
+        <target xml:lang="fr">Forts tourbillons de poussière</target>
+      </trans-unit>
+      <trans-unit id="Heavy Fog" approved="yes">
+        <source>Heavy Fog</source>
+        <target xml:lang="fr">Brouillard épais</target>
+      </trans-unit>
+      <trans-unit id="Heavy Fog Patches" approved="yes">
+        <source>Heavy Fog Patches</source>
+        <target xml:lang="fr">Bancs de brouillard épais</target>
+      </trans-unit>
+      <trans-unit id="Heavy Freezing Drizzle" approved="yes">
+        <source>Heavy Freezing Drizzle</source>
+        <target xml:lang="fr">Forte bruine verglaçante</target>
+      </trans-unit>
+      <trans-unit id="Heavy Freezing Fog" approved="yes">
+        <source>Heavy Freezing Fog</source>
+        <target xml:lang="fr">Épais brouillard verglaçant</target>
+      </trans-unit>
+      <trans-unit id="Heavy Hail" approved="yes">
+        <source>Heavy Hail</source>
+        <target xml:lang="fr"> Forte grêle</target>
+      </trans-unit>
+      <trans-unit id="Heavy Hail Showers" approved="yes">
+        <source>Heavy Hail Showers</source>
+        <target xml:lang="fr">Forte averse de grêle</target>
+      </trans-unit>
+      <trans-unit id="Heavy Haze" approved="yes">
+        <source>Heavy Haze</source>
+        <target xml:lang="fr">Brume épaisse</target>
+      </trans-unit>
+      <trans-unit id="Heavy Ice Crystals" approved="yes">
+        <source>Heavy Ice Crystals</source>
+        <target xml:lang="fr">Importants cristaux de glace</target>
+      </trans-unit>
+      <trans-unit id="Heavy Ice Pellet Showers" approved="yes">
+        <source>Heavy Ice Pellet Showers</source>
+        <target xml:lang="fr">Importantes chutes de grêle</target>
+      </trans-unit>
+      <trans-unit id="Heavy Ice Pellets" approved="yes">
+        <source>Heavy Ice Pellets</source>
+        <target xml:lang="fr">Importantes granules de glace</target>
+      </trans-unit>
+      <trans-unit id="Heavy Low Drifting Sand" approved="yes">
+        <source>Heavy Low Drifting Sand</source>
+        <target xml:lang="fr">Sables bas et importants</target>
+      </trans-unit>
+      <trans-unit id="Heavy Low Drifting Snow" approved="yes">
+        <source>Heavy Low Drifting Snow</source>
+        <target xml:lang="fr">Poudrerie basse et importante</target>
+      </trans-unit>
+      <trans-unit id="Heavy Low Drifting Widespread Dust" approved="yes">
+        <source>Heavy Low Drifting Widespread Dust</source>
+        <target xml:lang="fr">Gros nuages bas de poussière</target>
+      </trans-unit>
+      <trans-unit id="Heavy Mist" approved="yes">
+        <source>Heavy Mist</source>
+        <target xml:lang="fr">Brouillard</target>
+      </trans-unit>
+      <trans-unit id="Heavy Rain" approved="yes">
+        <source>Heavy Rain</source>
+        <target xml:lang="fr">Forte pluie</target>
+      </trans-unit>
+      <trans-unit id="Heavy Rain Mist" approved="yes">
+        <source>Heavy Rain Mist</source>
+        <target xml:lang="fr">Épaisse brume pluvieuse</target>
+      </trans-unit>
+      <trans-unit id="Heavy Rain Showers" approved="yes">
+        <source>Heavy Rain Showers</source>
+        <target xml:lang="fr">Fortes averses de pluie</target>
+      </trans-unit>
+      <trans-unit id="Heavy Sand" approved="yes">
+        <source>Heavy Sand</source>
+        <target xml:lang="fr">Gros nuages de sable</target>
+      </trans-unit>
+      <trans-unit id="Heavy Sandstorm" approved="yes">
+        <source>Heavy Sandstorm</source>
+        <target xml:lang="fr"> Violente tempête de sable</target>
+      </trans-unit>
+      <trans-unit id="Heavy Smoke" approved="yes">
+        <source>Heavy Smoke</source>
+        <target xml:lang="fr">Fumée épaisse</target>
+      </trans-unit>
+      <trans-unit id="Heavy Snow" approved="yes">
+        <source>Heavy Snow</source>
+        <target xml:lang="fr">Neige abondante </target>
+      </trans-unit>
+      <trans-unit id="Heavy Snow Blowing Snow Mist" approved="yes">
+        <source>Heavy Snow Blowing Snow Mist</source>
+        <target xml:lang="fr">Neige abondante Brume poudreuse</target>
+      </trans-unit>
+      <trans-unit id="Heavy Snow Grains" approved="yes">
+        <source>Heavy Snow Grains</source>
+        <target xml:lang="fr">Neige en grain abondante</target>
+      </trans-unit>
+      <trans-unit id="Heavy Snow Showers" approved="yes">
+        <source>Heavy Snow Showers</source>
+        <target xml:lang="fr">Fortes averses de neige</target>
+      </trans-unit>
+      <trans-unit id="Heavy Spray" approved="yes">
+        <source>Heavy Spray</source>
+        <target xml:lang="fr">Forts embruns</target>
+      </trans-unit>
+      <trans-unit id="Heavy Thunderstorm" approved="yes">
+        <source>Heavy Thunderstorm</source>
+        <target xml:lang="fr">Orage violent</target>
+      </trans-unit>
+      <trans-unit id="Heavy Thunderstorms and Ice Pellets" approved="yes">
+        <source>Heavy Thunderstorms and Ice Pellets</source>
+        <target xml:lang="fr">Orages violents et granules de glace</target>
+      </trans-unit>
+      <trans-unit id="Heavy Thunderstorms and Rain" approved="yes">
+        <source>Heavy Thunderstorms and Rain</source>
+        <target xml:lang="fr">Orages violents et pluie</target>
+      </trans-unit>
+      <trans-unit id="Heavy Thunderstorms and Snow" approved="yes">
+        <source>Heavy Thunderstorms and Snow</source>
+        <target xml:lang="fr">Orages violents et neige</target>
+      </trans-unit>
+      <trans-unit id="Heavy Thunderstorms with Hail" approved="yes">
+        <source>Heavy Thunderstorms with Hail</source>
+        <target xml:lang="fr">Orages violents accompagnés de grêle</target>
+      </trans-unit>
+      <trans-unit id="Heavy Thunderstorms with Small Hail" approved="yes">
+        <source>Heavy Thunderstorms with Small Hail</source>
+        <target xml:lang="fr">Orages violents avec une légère grêle</target>
+      </trans-unit>
+      <trans-unit id="Heavy Volcanic Ash" approved="yes">
+        <source>Heavy Volcanic Ash</source>
+        <target xml:lang="fr">Épaisse fumée volcanique</target>
+      </trans-unit>
+      <trans-unit id="Heavy Widespread Dust" approved="yes">
+        <source>Heavy Widespread Dust</source>
+        <target xml:lang="fr">Gros nuages de poussière</target>
+      </trans-unit>
+      <trans-unit id="Ice Crystals" approved="yes">
+        <source>Ice Crystals</source>
+        <target xml:lang="fr">Cristaux de glace</target>
+      </trans-unit>
+      <trans-unit id="Ice Pellet Showers" approved="yes">
+        <source>Ice Pellet Showers</source>
+        <target xml:lang="fr">Averses avec grésil</target>
+      </trans-unit>
+      <trans-unit id="Ice Pellets" approved="yes">
+        <source>Ice Pellets</source>
+        <target xml:lang="fr">Grésil</target>
+      </trans-unit>
+      <trans-unit id="Light Blowing Sand" approved="yes">
+        <source>Light Blowing Sand</source>
+        <target xml:lang="fr">Légers tourbillons de sable</target>
+      </trans-unit>
+      <trans-unit id="Light Blowing Snow" approved="yes">
+        <source>Light Blowing Snow</source>
+        <target xml:lang="fr">Poudrerie légère</target>
+      </trans-unit>
+      <trans-unit id="Light Blowing Widespread Dust" approved="yes">
+        <source>Light Blowing Widespread Dust</source>
+        <target xml:lang="fr">Légers tourbillons de poussière</target>
+      </trans-unit>
+      <trans-unit id="Light Drizzle" approved="yes">
+        <source>Light Drizzle</source>
+        <target xml:lang="fr">Légère bruine</target>
+      </trans-unit>
+      <trans-unit id="Light Dust Whirls" approved="yes">
+        <source>Light Dust Whirls</source>
+        <target xml:lang="fr">Légères colonnes de poussière</target>
+      </trans-unit>
+      <trans-unit id="Light Fog" approved="yes">
+        <source>Light Fog</source>
+        <target xml:lang="fr">Léger brouillard</target>
+      </trans-unit>
+      <trans-unit id="Light Fog Patches" approved="yes">
+        <source>Light Fog Patches</source>
+        <target xml:lang="fr">Bancs de brouillard isolés</target>
+      </trans-unit>
+      <trans-unit id="Light Freezing Drizzle" approved="yes">
+        <source>Light Freezing Drizzle</source>
+        <target xml:lang="fr">Légère bruine verglaçante</target>
+      </trans-unit>
+      <trans-unit id="Light Freezing Fog" approved="yes">
+        <source>Light Freezing Fog</source>
+        <target xml:lang="fr">Léger brouillard verglaçant</target>
+      </trans-unit>
+      <trans-unit id="Light Hail" approved="yes">
+        <source>Light Hail</source>
+        <target xml:lang="fr">Légère grêle</target>
+      </trans-unit>
+      <trans-unit id="Light Hail Showers" approved="yes">
+        <source>Light Hail Showers</source>
+        <target xml:lang="fr">Légères averses de grêle</target>
+      </trans-unit>
+      <trans-unit id="Light Haze" approved="yes">
+        <source>Light Haze</source>
+        <target xml:lang="fr">Brume légère</target>
+      </trans-unit>
+      <trans-unit id="Light Ice Crystals" approved="yes">
+        <source>Light Ice Crystals</source>
+        <target xml:lang="fr">Légers cristaux de glace</target>
+      </trans-unit>
+      <trans-unit id="Light Ice Pellet Showers" approved="yes">
+        <source>Light Ice Pellet Showers</source>
+        <target xml:lang="fr">Averses légères avec grésil</target>
+      </trans-unit>
+      <trans-unit id="Light Ice Pellets" approved="yes">
+        <source>Light Ice Pellets</source>
+        <target xml:lang="fr">Léger grésil</target>
+      </trans-unit>
+      <trans-unit id="Light Low Drifting Sand" approved="yes">
+        <source>Light Low Drifting Sand</source>
+        <target xml:lang="fr">Légères rafales de sable au sol</target>
+      </trans-unit>
+      <trans-unit id="Light Low Drifting Snow" approved="yes">
+        <source>Light Low Drifting Snow</source>
+        <target xml:lang="fr">Neige basse légère</target>
+      </trans-unit>
+      <trans-unit id="Light Low Drifting Widespread Dust" approved="yes">
+        <source>Light Low Drifting Widespread Dust</source>
+        <target xml:lang="fr">Légères rafales de poussière au sol</target>
+      </trans-unit>
+      <trans-unit id="Light Mist" approved="yes">
+        <source>Light Mist</source>
+        <target xml:lang="fr">Légère brume</target>
+      </trans-unit>
+      <trans-unit id="Light Rain" approved="yes">
+        <source>Light Rain</source>
+        <target xml:lang="fr">Pluie légère</target>
+      </trans-unit>
+      <trans-unit id="Light Rain Mist" approved="yes">
+        <source>Light Rain Mist</source>
+        <target xml:lang="fr">Légère brume pluvieuse</target>
+      </trans-unit>
+      <trans-unit id="Light Rain Showers" approved="yes">
+        <source>Light Rain Showers</source>
+        <target xml:lang="fr">Légères averses de pluie</target>
+      </trans-unit>
+      <trans-unit id="Light Sand" approved="yes">
+        <source>Light Sand</source>
+        <target xml:lang="fr">Sable léger</target>
+      </trans-unit>
+      <trans-unit id="Light Sandstorm" approved="yes">
+        <source>Light Sandstorm</source>
+        <target xml:lang="fr">Légère tempête de sable</target>
+      </trans-unit>
+      <trans-unit id="Light Smoke" approved="yes">
+        <source>Light Smoke</source>
+        <target xml:lang="fr">Fumée légère</target>
+      </trans-unit>
+      <trans-unit id="Light Snow" approved="yes">
+        <source>Light Snow</source>
+        <target xml:lang="fr">Neige légère</target>
+      </trans-unit>
+      <trans-unit id="Light Snow Blowing Snow Mist" approved="yes">
+        <source>Light Snow Blowing Snow Mist</source>
+        <target xml:lang="fr">Neige légère Brume poudreuse</target>
+      </trans-unit>
+      <trans-unit id="Light Snow Grains" approved="yes">
+        <source>Light Snow Grains</source>
+        <target xml:lang="fr">Neige légère en grain</target>
+      </trans-unit>
+      <trans-unit id="Light Snow Showers" approved="yes">
+        <source>Light Snow Showers</source>
+        <target xml:lang="fr">Légères averses de neige</target>
+      </trans-unit>
+      <trans-unit id="Light Spray" approved="yes">
+        <source>Light Spray</source>
+        <target xml:lang="fr">Fines gouttelettes</target>
+      </trans-unit>
+      <trans-unit id="Light Thunderstorm" approved="yes">
+        <source>Light Thunderstorm</source>
+        <target xml:lang="fr">Orage léger</target>
+      </trans-unit>
+      <trans-unit id="Light Thunderstorms and Ice Pellets" approved="yes">
+        <source>Light Thunderstorms and Ice Pellets</source>
+        <target xml:lang="fr">Orages légers et Grésil</target>
+      </trans-unit>
+      <trans-unit id="Light Thunderstorms and Rain" approved="yes">
+        <source>Light Thunderstorms and Rain</source>
+        <target xml:lang="fr">Orages légers et Pluie</target>
+      </trans-unit>
+      <trans-unit id="Light Thunderstorms and Snow" approved="yes">
+        <source>Light Thunderstorms and Snow</source>
+        <target xml:lang="fr">Orages légers et Neige</target>
+      </trans-unit>
+      <trans-unit id="Light Thunderstorms with Hail" approved="yes">
+        <source>Light Thunderstorms with Hail</source>
+        <target xml:lang="fr">Orages légers avec Grêle</target>
+      </trans-unit>
+      <trans-unit id="Light Thunderstorms with Small Hail" approved="yes">
+        <source>Light Thunderstorms with Small Hail</source>
+        <target xml:lang="fr">Orages légers avec faible grêle</target>
+      </trans-unit>
+      <trans-unit id="Light Volcanic Ash" approved="yes">
+        <source>Light Volcanic Ash</source>
+        <target xml:lang="fr">Légère fumée volcanique</target>
+      </trans-unit>
+      <trans-unit id="Light Widespread Dust" approved="yes">
+        <source>Light Widespread Dust</source>
+        <target xml:lang="fr">Légère poussière étendue</target>
+      </trans-unit>
+      <trans-unit id="Low Blowing Sand" approved="yes">
+        <source>Low Blowing Sand</source>
+        <target xml:lang="fr">Tourbillons de sable au sol</target>
+      </trans-unit>
+      <trans-unit id="Low Blowing Widespread Dust" approved="yes">
+        <source>Low Blowing Widespread Dust</source>
+        <target xml:lang="fr">Tourbillons de poussière au sol</target>
+      </trans-unit>
+      <trans-unit id="Low Drifting Sand" approved="yes">
+        <source>Low Drifting Sand</source>
+        <target xml:lang="fr">Légères rafales de sable au sol</target>
+      </trans-unit>
+      <trans-unit id="Low Drifting Snow" approved="yes">
+        <source>Low Drifting Snow</source>
+        <target xml:lang="fr">Neige basse</target>
+      </trans-unit>
+      <trans-unit id="Low Drifting Widespread Dust" approved="yes">
+        <source>Low Drifting Widespread Dust</source>
+        <target xml:lang="fr">Légères rafales de poussière au sol</target>
+      </trans-unit>
+      <trans-unit id="Mist" approved="yes">
+        <source>Mist</source>
+        <target xml:lang="fr">Brume</target>
+      </trans-unit>
+      <trans-unit id="Mostly Cloudy" approved="yes">
+        <source>Mostly Cloudy</source>
+        <target xml:lang="fr">Nuageux dans l'ensemble</target>
+      </trans-unit>
+      <trans-unit id="Overcast" approved="yes">
+        <source>Overcast</source>
+        <target xml:lang="fr">Couvert</target>
+      </trans-unit>
+      <trans-unit id="Partial Fog" approved="yes">
+        <source>Partial Fog</source>
+        <target xml:lang="fr">Brouillard partiel</target>
+      </trans-unit>
+      <trans-unit id="Partly Cloudy" approved="yes">
+        <source>Partly Cloudy</source>
+        <target xml:lang="fr">Partiellement nuageux</target>
+      </trans-unit>
+      <trans-unit id="Patches of Fog" approved="yes">
+        <source>Patches of Fog</source>
+        <target xml:lang="fr">Bancs de brouillard</target>
+      </trans-unit>
+      <trans-unit id="Rain" approved="yes">
+        <source>Rain</source>
+        <target xml:lang="fr">Pluie</target>
+      </trans-unit>
+      <trans-unit id="Rain Mist" approved="yes">
+        <source>Rain Mist</source>
+        <target xml:lang="fr">Brume pluvieuse</target>
+      </trans-unit>
+      <trans-unit id="Rain Showers" approved="yes">
+        <source>Rain Showers</source>
+        <target xml:lang="fr">Averses de pluie</target>
+      </trans-unit>
+      <trans-unit id="Sand" approved="yes">
+        <source>Sand</source>
+        <target xml:lang="fr">Sable</target>
+      </trans-unit>
+      <trans-unit id="Sandstorm" approved="yes">
+        <source>Sandstorm</source>
+        <target xml:lang="fr">Tempête de sable</target>
+      </trans-unit>
+      <trans-unit id="Scattered Clouds" approved="yes">
+        <source>Scattered Clouds</source>
+        <target xml:lang="fr">Nuages épars</target>
+      </trans-unit>
+      <trans-unit id="Shallow Fog" approved="yes">
+        <source>Shallow Fog</source>
+        <target xml:lang="fr">Faible brouillard</target>
+      </trans-unit>
+      <trans-unit id="Small Hail" approved="yes">
+        <source>Small Hail</source>
+        <target xml:lang="fr">Légère grêle</target>
+      </trans-unit>
+      <trans-unit id="Smoke" approved="yes">
+        <source>Smoke</source>
+        <target xml:lang="fr">Fumée</target>
+      </trans-unit>
+      <trans-unit id="Snow" approved="yes">
+        <source>Snow</source>
+        <target xml:lang="fr">Neige</target>
+      </trans-unit>
+      <trans-unit id="Snow Blowing Snow Mist" approved="yes">
+        <source>Snow Blowing Snow Mist</source>
+        <target xml:lang="fr">Neige Brume poudreuse</target>
+      </trans-unit>
+      <trans-unit id="Snow Grains" approved="yes">
+        <source>Snow Grains</source>
+        <target xml:lang="fr">Neige en grain</target>
+      </trans-unit>
+      <trans-unit id="Snow Showers" approved="yes">
+        <source>Snow Showers</source>
+        <target xml:lang="fr">Averses de neige</target>
+      </trans-unit>
+      <trans-unit id="Spray" approved="yes">
+        <source>Spray</source>
+        <target xml:lang="fr">Gouttelettes</target>
+      </trans-unit>
+      <trans-unit id="Squalls" approved="yes">
+        <source>Squalls</source>
+        <target xml:lang="fr">Rafales</target>
+      </trans-unit>
+      <trans-unit id="Thunderstorm" approved="yes">
+        <source>Thunderstorm</source>
+        <target xml:lang="fr">Orage</target>
+      </trans-unit>
+      <trans-unit id="Thunderstorms and Ice Pellets" approved="yes">
+        <source>Thunderstorms and Ice Pellets</source>
+        <target xml:lang="fr">Orages avec Grésil</target>
+      </trans-unit>
+      <trans-unit id="Thunderstorms and Rain" approved="yes">
+        <source>Thunderstorms and Rain</source>
+        <target xml:lang="fr">Orages et Pluie</target>
+      </trans-unit>
+      <trans-unit id="Thunderstorms and Snow" approved="yes">
+        <source>Thunderstorms and Snow</source>
+        <target xml:lang="fr">Orages et Neige</target>
+      </trans-unit>
+      <trans-unit id="Thunderstorms with Hail" approved="yes">
+        <source>Thunderstorms with Hail</source>
+        <target xml:lang="fr">Orages et Grêle</target>
+      </trans-unit>
+      <trans-unit id="Thunderstorms with Small Hail" approved="yes">
+        <source>Thunderstorms with Small Hail</source>
+        <target xml:lang="fr">Orages avec Faible Grêle</target>
+      </trans-unit>
+      <trans-unit id="Unknown" approved="yes">
+        <source>Unknown</source>
+        <target xml:lang="fr">Inconnu</target>
+      </trans-unit>
+      <trans-unit id="Unknown Precipitation" approved="yes">
+        <source>Unknown Precipitation</source>
+        <target xml:lang="fr">Précipitations indéterminées</target>
+      </trans-unit>
+      <trans-unit id="Volcanic Ash" approved="yes">
+        <source>Volcanic Ash</source>
+        <target xml:lang="fr">Cendres volcaniques</target>
+      </trans-unit>
+      <trans-unit id="Widespread Dust" approved="yes">
+        <source>Widespread Dust</source>
+        <target xml:lang="fr">Poussière étendue</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
